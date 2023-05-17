@@ -1,0 +1,356 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.19f1 (68f137dc9bbe) revision 6877495'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19044.1889; Version 2009; 64bit' Language: 'tr' Physical Memory: 8101 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/CASPER_/Desktop/Yeni klasör/Toplama Oyunu
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50711
+Successfully changed project path to: C:/Users/CASPER_/Desktop/Yeni klasör/Toplama Oyunu
+C:/Users/CASPER_/Desktop/Yeni klasör/Toplama Oyunu
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 36.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.19f1 (68f137dc9bbe)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/CASPER_/Desktop/Yeni klasör/Toplama Oyunu/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   30.0.15.1295
+Invalid texture used for cursor - check importer settings or texture creation. Texture must be RGBA32, readable, have alphaIsTransparency enabled and have no mip chain.
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56696
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003097 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 35.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.181 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1181ms)
+		BeginReloadAssembly (61ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (447ms)
+			LoadAssemblies (58ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (170ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (167ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (35ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (87ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005370 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.078 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1079ms)
+		BeginReloadAssembly (158ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (851ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (293ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (318ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (239ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1477 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.2 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1915.
+Total: 3.191000 ms (FindLiveObjects: 0.231100 ms CreateObjectMapping: 0.066800 ms MarkObjects: 2.820000 ms  DeleteObjects: 0.072000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Script/GameManager.cs
+  artifactKey: Guid(72d068c6930890b4082220f2250bf7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/GameManager.cs using Guid(72d068c6930890b4082220f2250bf7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c55fcb99d68acabff9330c7476a52de0') in 0.065526 seconds 
+  Import took 0.078360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.888156 seconds.
+  path: Assets/Sprites/beyin
+  artifactKey: Guid(bcbcedb3b6fb71948836b3bb886c850f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/beyin using Guid(bcbcedb3b6fb71948836b3bb886c850f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6bf102a1984b513c7273e9d8cd7612e') in 0.003189 seconds 
+  Import took 0.007481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023746 seconds.
+  path: Assets/Sprites/beyin/kafa@4x.png
+  artifactKey: Guid(42b2311b05a65f54db333535ba6fece0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/beyin/kafa@4x.png using Guid(42b2311b05a65f54db333535ba6fece0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3827f3551d3ce4289ded9c12a881716') in 0.208405 seconds 
+  Import took 0.213778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Sprites/beyin/Varlık 1@4x.png
+  artifactKey: Guid(de60e814e1aeb8748a9cb2497614b997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/beyin/Varlık 1@4x.png using Guid(de60e814e1aeb8748a9cb2497614b997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0274542759f2ff319dbd57e4248154f') in 0.025894 seconds 
+  Import took 0.031032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Sprites/beyin/Varlık 2@4x.png
+  artifactKey: Guid(e8cb9222b6e73334f918000d27bba437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/beyin/Varlık 2@4x.png using Guid(e8cb9222b6e73334f918000d27bba437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b479b41d11987408fc39f829ca6a4c07') in 0.027451 seconds 
+  Import took 0.032382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Sprites/beyin/Varlık 4@4x.png
+  artifactKey: Guid(98eadee8829f8b34283dc59940d5ced5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/beyin/Varlık 4@4x.png using Guid(98eadee8829f8b34283dc59940d5ced5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '404a739d8b1a8b3ca3c27f99f9328645') in 0.022341 seconds 
+  Import took 0.028580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Sprites/beyin/Varlık 3@4x.png
+  artifactKey: Guid(d7b3291759f99c54398327b67153fb64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/beyin/Varlık 3@4x.png using Guid(d7b3291759f99c54398327b67153fb64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd1274b5eaef744c8ae9ebbf899e636') in 0.024503 seconds 
+  Import took 0.030083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.240861 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/acikYesil.png
+  artifactKey: Guid(645be9d37241cab4795ce356c58d0bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/acikYesil.png using Guid(645be9d37241cab4795ce356c58d0bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '917500ac72742a455f601c5c3bf45519') in 0.025562 seconds 
+  Import took 0.031196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/background.png
+  artifactKey: Guid(a855851aaef40a947a1ebb23070b8893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/background.png using Guid(a855851aaef40a947a1ebb23070b8893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1354a4404cb625e0bf981af58a38d1') in 0.029179 seconds 
+  Import took 0.035418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/buyukSayiYazi.png
+  artifactKey: Guid(21e23b3362276364fb944cc832982073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/buyukSayiYazi.png using Guid(21e23b3362276364fb944cc832982073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3937d18f7141161438a85d04309d0202') in 0.020460 seconds 
+  Import took 0.026693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/koyuYesil.png
+  artifactKey: Guid(c54dbedf3ff9d80449b73937db8e1344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/koyuYesil.png using Guid(c54dbedf3ff9d80449b73937db8e1344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78fceb52f968a99a2dbfde993ad74307') in 0.021143 seconds 
+  Import took 0.023859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/baslaBtn.png
+  artifactKey: Guid(df3f630fed8d20c43894118a2a125664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/baslaBtn.png using Guid(df3f630fed8d20c43894118a2a125664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0609ead3fa5cc57d3ab54ec9e5b338f6') in 0.018053 seconds 
+  Import took 0.022220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000857 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/puanKapYazi.png
+  artifactKey: Guid(23a93d603cb0249478094fbea81b3c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/puanKapYazi.png using Guid(23a93d603cb0249478094fbea81b3c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e977e70fdf45608d09ef87db79eb6923') in 0.017768 seconds 
+  Import took 0.022278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/falseIcon@4x.png
+  artifactKey: Guid(eb56083657f78e24abe2cff54d54feb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/falseIcon@4x.png using Guid(eb56083657f78e24abe2cff54d54feb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b308929d85cefcb94341c1817308546d') in 0.034390 seconds 
+  Import took 0.037913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/sonucbuton@4x.png
+  artifactKey: Guid(12e4e1471c00172439175c0e092acdf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/sonucbuton@4x.png using Guid(12e4e1471c00172439175c0e092acdf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bcb476e6e78e8c1c327d46f91c1c817') in 0.018793 seconds 
+  Import took 0.023524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/sonucBack.png
+  artifactKey: Guid(d31a02a46f5f35c4fac979e178a1ec8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/sonucBack.png using Guid(d31a02a46f5f35c4fac979e178a1ec8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99a5aa17270b3b4542a5848754010bd') in 0.015093 seconds 
+  Import took 0.017794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/sureSkor.png
+  artifactKey: Guid(e6c5ac1b55bc0db4997161d5c349e901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/sureSkor.png using Guid(e6c5ac1b55bc0db4997161d5c349e901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fceee58c80f92058cfdce6a5efb1db0') in 0.016304 seconds 
+  Import took 0.019907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/dikdortgennBack.png
+  artifactKey: Guid(01c35c5f364b4e842adeaf14fc6dcd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/dikdortgennBack.png using Guid(01c35c5f364b4e842adeaf14fc6dcd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44cc9ef0234bf9c87563a6d75fec3d6d') in 0.018628 seconds 
+  Import took 0.023389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/pauseBtn.png
+  artifactKey: Guid(34bd3b58065354447b3610a7fa4555fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/pauseBtn.png using Guid(34bd3b58065354447b3610a7fa4555fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb00e34daf65233a9e0e0ebc87a3aa38') in 0.017735 seconds 
+  Import took 0.021882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/trueIcon@4x.png
+  artifactKey: Guid(0e60b7f51653ac64a844224711142e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/trueIcon@4x.png using Guid(0e60b7f51653ac64a844224711142e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da788c5d3c800ce0c3d86dd325f91b5e') in 0.025290 seconds 
+  Import took 0.028958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/geriSayim.png
+  artifactKey: Guid(db52a512d23019745aa075b55f8ad42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/geriSayim.png using Guid(db52a512d23019745aa075b55f8ad42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49c572b8f6821cd7035ba7a320f99d2') in 0.016336 seconds 
+  Import took 0.021792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Sprites/Toplama Oyunu Sprites/dikdortgenBack@4x.png
+  artifactKey: Guid(388bb44bcea972e41ae5cbd6543382e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Toplama Oyunu Sprites/dikdortgenBack@4x.png using Guid(388bb44bcea972e41ae5cbd6543382e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1323815d542f424ec073c7b2eef59c') in 0.023858 seconds 
+  Import took 0.026671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.771684 seconds.
+  path: Assets/Sounds/bitis.mp3
+  artifactKey: Guid(65f78d0f054cd194680fcd07bba144dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bitis.mp3 using Guid(65f78d0f054cd194680fcd07bba144dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdbfb002184d7d50e256f07ed78674aa') in 0.071452 seconds 
+  Import took 0.074839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Sounds/oyunAcilis.mp3
+  artifactKey: Guid(2d5dc50016e54324aaca72882d224328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/oyunAcilis.mp3 using Guid(2d5dc50016e54324aaca72882d224328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f30760fd594f11db4f703a34a36803') in 0.012258 seconds 
+  Import took 0.016698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Sounds/dogruSes.mp3
+  artifactKey: Guid(ddc9bee85160358458b30fc2c94ac05a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/dogruSes.mp3 using Guid(ddc9bee85160358458b30fc2c94ac05a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450c15d1fb25099800ad6b1cb726aa6f') in 0.013059 seconds 
+  Import took 0.016968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Sounds/yanlisSesi.mp3
+  artifactKey: Guid(f2a8a9001957889478413d5952822229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/yanlisSesi.mp3 using Guid(f2a8a9001957889478413d5952822229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e239cf1a8d808f9600bea7fd94eb64e1') in 0.012295 seconds 
+  Import took 0.016085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Sounds/geriSayim.mp3
+  artifactKey: Guid(21c0fc19d5178d84ea7ce95df6be60f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/geriSayim.mp3 using Guid(21c0fc19d5178d84ea7ce95df6be60f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9ace481e5a054bb8d8dd717442c03a') in 0.020347 seconds 
+  Import took 0.023906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.354209 seconds.
+  path: Assets/Script/MenuManager.cs
+  artifactKey: Guid(f1c6157fd1456ae4ca16e008a483dc16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/MenuManager.cs using Guid(f1c6157fd1456ae4ca16e008a483dc16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be8659ebbcf9b479a2d42df85c35271') in 0.002759 seconds 
+  Import took 0.005714 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
